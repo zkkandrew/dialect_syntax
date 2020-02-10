@@ -1,0 +1,20 @@
+half data:
+
+baoji_del
+{'N/N': 81, 'NT/NT': 121, 'T/T': 17, 'N/NT': 59, 'N/T': 5, 'NT/T': 14, 'NT/N': 10, 'T/N': 0, 'T/NT': 11}
+lantian_del
+{'N/N': 121, 'NT/NT': 97, 'T/T': 27, 'N/NT': 36, 'N/T': 7, 'NT/T': 21, 'NT/N': 22, 'T/N': 0, 'T/NT': 10}
+jian
+{'N/N': 0, 'NT/NT': 162, 'T/T': 47, 'N/NT': 12, 'N/T': 0, 'NT/T': 57, 'NT/N': 0, 'T/N': 0, 'T/NT': 25}
+[Finished in 1.1s]
+
+
+3/4 data:
+
+baoji_del
+{'N/N': 59, 'NT/NT': 141, 'T/T': 14, 'N/NT': 38, 'N/T': 5, 'NT/T': 10, 'NT/N': 8, 'T/N': 0, 'T/NT': 12}
+lantian_del
+{'N/N': 103, 'NT/NT': 98, 'T/T': 39, 'N/NT': 38, 'N/T': 8, 'NT/T': 23, 'NT/N': 30, 'T/N': 0, 'T/NT': 12}
+jian
+{'N/N': 0, 'NT/NT': 195, 'T/T': 26, 'N/NT': 9, 'N/T': 0, 'NT/T': 45, 'NT/N': 0, 'T/N': 0, 'T/NT': 14}
+[Finished in 1.1s]
